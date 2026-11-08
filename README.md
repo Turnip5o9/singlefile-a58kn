@@ -1,2 +1,2 @@
-# singlefile-a58kn
-CDN Asset Distribution via godmode
+# opium singlefile thinks x100
+get the link in cdn_links.txt :D 
